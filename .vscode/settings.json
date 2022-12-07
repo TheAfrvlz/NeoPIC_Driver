@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "pic18f4550.h": "c",
+        "configuracion.h": "c",
+        "xc.h": "c",
+        "stdlib.h": "c",
+        "ws28_adafruit.h": "c"
+    }
+}
